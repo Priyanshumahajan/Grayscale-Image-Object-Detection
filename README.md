@@ -4,3 +4,4 @@ Therefore, the proposed solution is to train YOLOv4 and YOLOv4-tiny on custom da
 For the prelimnary stage of development we only used single class of object i.e car to prove our thoery. The labelled [Datasetv1](https://drive.google.com/file/d/1ypLwiQwgWpqHqJsBPMqvMH35idEMUEns/view?usp=sharing) was used to train the model.
 Both YOLOv4 and YOLOv4-tiny are trained on the same data and can be used on both for RGB aswell as Gray inputs of images and videos.
 This is possible due to transfer learning of pre-trained RGB model.
+To use the python scripts download weights and cfg for [YOLOv4](https://drive.google.com/drive/folders/1vi-uJGT2wJKDm7bKKLMz38klC9JjeCtf?usp=sharing) and [YOLOv4-tiny](https://drive.google.com/drive/folders/135_Wf385hXHfvnZLNKLcSS89yKkqxYxY?usp=sharing)
